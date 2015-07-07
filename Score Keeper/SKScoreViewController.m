@@ -26,6 +26,7 @@ static CGFloat scoreViewHeight = 90;
     if (self) {
     }
     return self;
+    //This is a test    
 }
 
 - (void)viewDidLoad
